@@ -20,20 +20,6 @@ package com.maozi.monitor.config;
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.context.annotation.Configuration;
 
-/**	
- * 
- *  Specifications：功能
- * 
- *  Author：彭晋龙
- * 
- *  Creation Date：2021-12-18:16:32:34
- *
- *  Copyright Ownership：xiao mao zi
- * 
- *  Agreement That：Apache 2.0
- * 
- */
-
 @Configuration
 @EnableAdminServer
 public class Config {}
